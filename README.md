@@ -1,0 +1,2 @@
+Touchdevelop app ["There and back"|http://www.windowsphone.com/en-us/store/app/%D1%82%D1%83%D0%B4%D0%B0-%D0%B8-%D0%BE%D0%B1%D1%80%D0%B0%D1%82%D0%BD%D0%BE/187adacb-60be-4ee9-b5fd-fc6585d32c58] stored here with binary and referenced Touchdevelop and yahoo pipes sources and assets.
+The version this corresponds to is [http://www.touchdevelop.com/api/rnyzklvb/]. I didn't give much thought to importing change history or devising some version mapping between Microsoft script storage and github, since it will only be relevant in asset keeping.
